@@ -2,9 +2,6 @@ name: tradecraftHub
 channels:
   - defaults
 dependencies:
-  - libcxx=10.0.0=1
-  - tzdata=2020f=h52ac0ba_0
-  - wheel=0.36.2=pyhd3eb1b0_0
   - pip:
     - anyio==2.1.0
     - appnope==0.1.2
@@ -78,4 +75,3 @@ dependencies:
     - urllib3==1.26.3
     - wcwidth==0.2.5
     - webencodings==0.5.1
-prefix: /Users/guillermo/opt/anaconda3/envs/tradecraftHub
